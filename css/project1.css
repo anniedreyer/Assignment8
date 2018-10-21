@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+}
+
+div img {
+	display: flex;
+	margin: 20px;
+}
+
+.responsive {
+    width: 40%;
+    height: 40%;
+}
+
+div img:hover {
+	box-shadow: 5px 5px #EB382E;
+	transition: .2s;
+}
+
+.photos {
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 120px;
+    font-size: 18px;
+}

@@ -1,0 +1,40 @@
+header img:hover {
+	transform: scale(1.1);
+}
+
+
+
+#aboutme{
+	position: flex;
+	display: inline-block;
+}
+
+.img-frame {
+	float: left;
+	margin-left: 60px;
+	margin-right: 25px;
+}
+
+.img-frame {
+    background:transparent;
+    padding:20px;
+    border:10px solid #DCD5CB; 
+}
+
+.text {
+	margin-top: 150px;
+	margin-right: 50px;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
+
